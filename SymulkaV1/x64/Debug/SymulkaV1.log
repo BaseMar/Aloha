@@ -1,0 +1,42 @@
+﻿  Package.cpp
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(28): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(31): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\package.cpp(31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  PackageProcess.cpp
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(28): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(31): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\process.h(16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\packageprocess.cpp(39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\packageprocess.cpp(80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\packageprocess.cpp(115): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\packageprocess.cpp(186): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Process.cpp
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(28): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(31): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\process.h(16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  TelecomunicationSystem.cpp
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(28): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(31): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  main.cpp
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(28): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\generator.h(31): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\process.h(16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(50): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(75): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(76): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(82): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(90): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(91): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(97): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\martino\desktop\symulkav1\symulkav1\main.cpp(98): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  SymulkaV1.vcxproj -> C:\Users\Martino\Desktop\SymulkaV1\x64\Debug\SymulkaV1.exe

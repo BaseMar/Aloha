@@ -1,0 +1,61 @@
+﻿  Transmitter.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  TelecomunicationSystem.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Statistics.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(141): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\statistics.cpp(175): warning C4018: '<': signed/unsigned mismatch
+  Process.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\process.h(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\process.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  PackageProcess.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\process.h(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\packageprocess.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\packageprocess.cpp(40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\packageprocess.cpp(79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\packageprocess.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\packageprocess.cpp(155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\packageprocess.cpp(217): warning C4018: '<': signed/unsigned mismatch
+  Package.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\package.cpp(30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\process.h(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\main.cpp(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generator.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Channel.cpp
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adam\symulka_martina\symulka martino v1\symulkav1\symulkav1\generator.h(31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SymulkaV1.vcxproj -> C:\Adam\SYMULKA_MARTINA\Symulka Martino V1\SymulkaV1\Debug\SymulkaV1.exe
+  SymulkaV1.vcxproj -> C:\Adam\SYMULKA_MARTINA\Symulka Martino V1\SymulkaV1\Debug\SymulkaV1.pdb (Partial PDB)
